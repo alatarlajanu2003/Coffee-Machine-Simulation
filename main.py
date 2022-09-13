@@ -22,3 +22,4 @@ while game_on:
                 coffee_maker.make_coffee(menu.find_drink((user_choice)))
         else:
             game_on = False
+            
